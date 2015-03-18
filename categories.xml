@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <categories>
- <category title="WS" description="Jani WS">                                
-                <categoryLeaf title="WS Old Tam" description="" feed="http://janitv.googlecode.com/svn/trunk/xml/TIP_TAMIL1.xml"/>
-                <categoryLeaf title="WS Old Mus" description="" feed="http://janitv.googlecode.com/svn/trunk/xml/TIP_MUSIC1.xml"/>
-                <categoryLeaf title="WS Old Mov" description="" feed="http://janitv.googlecode.com/svn/trunk/xml/TIP_MOVIES1.xml"/>
-</category>
-        <category title="MyTv" description="Jani Mytv">  
-   <categoryLeaf title="MyTV" description="" feed="http://janitv.googlecode.com/svn/trunk/xml/MyLinks.xml"/>                    
-  </category>
-   <category title="Crickt" description="Jani Crickt">  
-   <categoryLeaf title="Crickt" description="" feed="http://janitv.googlecode.com/svn/trunk/xml/Cricket.xml"/>                    
-  </category>
   <category title="NIS Tv" description="Jani NIStv">  
    <categoryLeaf title="MyTV" description="" feed="http://nisanthan.com/ChristianRoku/R1/xml/LIVETV.xml"/>                    
   </category>
