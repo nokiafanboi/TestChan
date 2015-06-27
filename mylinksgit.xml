@@ -1,6 +1,274 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<categories>
-  <category title="NIS Tv" description="Jani NIStv">  
-   <categoryLeaf title="MyTV" description="" feed="http://endalinks.weebly.com/uploads/5/4/6/4/54642429/mylinksypp.xml"/>                    
-  </category>
- </categories>
+<feed xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<item hdImg="http://cdn.freedocast.com/yupptv/sony1/images/puthiya_thalaimurai_roku.jpg">
+<Title>PuthiyaThalaimurai</Title>
+<ContentId>0</ContentId>
+<streamFormat>hls</streamFormat>
+<media>
+<streamUrl>http://hlstamnews-lh.akamaihd.net/i/ams7_puthiya@124588/master.m3u8</streamUrl>
+</media>
+</item>
+<item hdImg="http://cdn.freedocast.com/yupptv/sony1/images/news7_tamil_roku.jpg">
+<Title>News7Tamil</Title>
+<ContentId>1</ContentId>
+<streamFormat>hls</streamFormat>
+<media>
+<streamUrl>http://hlstamnews-lh.akamaihd.net/i/ams7_news7@124589/master.m3u8</streamUrl>
+</media>
+</item>
+<item hdImg="http://cdn.freedocast.com/yupptv/sony1/images/vannathirai_vtv_roku.jpg">
+<Title>Vannathirai VTV</Title>
+<ContentId>2</ContentId>
+<streamFormat>hls</streamFormat>
+<media>
+<streamUrl>http://hlssouthasiaextr-lh.akamaihd.net/i/hls15_vannathiraitv@317190/master.m3u8</streamUrl>
+</media>
+</item>
+<item hdImg="http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/jayatv.jpg">
+<Title>Jaya TV</Title>
+<ContentId>3</ContentId>
+<streamFormat>hls</streamFormat>
+<media>
+<streamUrl>http://hlsent5-lh.akamaihd.net/i/ams52_jayatv@318180/master.m3u8</streamUrl>
+</media>
+</item>
+<item hdImg="http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/rajmusix.jpg">
+<Title>Raj Musix</Title>
+<ContentId>4</ContentId>
+<streamFormat>hls</streamFormat>
+<media>
+<streamUrl>http://hlstamextra-lh.akamaihd.net/i/ams5_rajmusix@124581/master.m3u8</streamUrl>
+</media>
+</item>
+<item hdImg="http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/suntv.jpg">
+<Title>Sun TV </Title>
+<ContentId>5</ContentId>
+<streamFormat>hls</streamFormat>
+<media>
+<streamUrl>http://hlsent5-lh.akamaihd.net/i/ams52_suntv@318185/master.m3u8</streamUrl>
+</media>
+</item>
+<item hdImg="http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/sun_ustime.jpg">
+<Title>Sun TV US </Title>
+<ContentId>6</ContentId>
+<streamFormat>hls</streamFormat>
+<media>
+<streamUrl>http://hlstament-lh.akamaihd.net/i/hls3_suntvus15@65329/master.m3u8</streamUrl>
+</media>
+</item>
+<item hdImg="http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/ktv.jpg">
+<Title>KTV</Title>
+<ContentId>7</ContentId>
+<streamFormat>hls</streamFormat>
+<media>
+<streamUrl>http://hlstament-lh.akamaihd.net/i/hls3_ktv16@65330/master.m3u8</streamUrl>
+</media>
+</item>
+<item hdImg="http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/ktv_ustime.jpg">
+<Title>KTV US</Title>
+<ContentId>8</ContentId>
+<streamFormat>hls</streamFormat>
+<media>
+<streamUrl>http://hlstament-lh.akamaihd.net/i/hls3_ktvus17@65331/master.m3u8</streamUrl>
+</media>
+</item>
+<item hdImg="http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/rajnewstamil.jpg">
+<Title>Raj News 24X7</Title>
+<ContentId>9</ContentId>
+<streamFormat>hls</streamFormat>
+<media>
+<streamUrl>http://hlstamnews-lh.akamaihd.net/i/ams7_rajnews24x7@124585/master.m3u8</streamUrl>
+</media>
+</item>
+<item hdImg="http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/makkaltv.jpg">
+<Title>Makkal TV</Title>
+<ContentId>10</ContentId>
+<streamFormat>hls</streamFormat>
+<media>
+<streamUrl>http://hlsent5-lh.akamaihd.net/i/ams52_makkaltv@318181/master.m3u8</streamUrl>
+</media>
+</item>
+<item hdImg="http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/rajtv_tamil.jpg">
+<Title>Raj TV</Title>
+<ContentId>11</ContentId>
+<streamFormat>hls</streamFormat>
+<media>
+<streamUrl>http://hlsent5-lh.akamaihd.net/i/ams52_rajtv@318177/master.m3u8</streamUrl>
+</media>
+</item>
+<item hdImg="http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/raj_digitalplus.jpg">
+<Title>Raj Digital Plus</Title>
+<ContentId>12</ContentId>
+<streamFormat>hls</streamFormat>
+<media>
+<streamUrl>http://hlsent5-lh.akamaihd.net/i/ams52_rajdigitalplus@318176/master.m3u8</streamUrl>
+</media>
+</item>
+<item hdImg="http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/jayamax.jpg">
+<Title>Jaya Max</Title>
+<ContentId>13</ContentId>
+<streamFormat>hls</streamFormat>
+<media>
+<streamUrl>http://hlsent5-lh.akamaihd.net/i/ams52_jayamax@318174/master.m3u8</streamUrl>
+</media>
+</item>
+<item hdImg="http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/jayaplus.jpg">
+<Title>Jaya Plus Tamil</Title>
+<ContentId>14</ContentId>
+<streamFormat>hls</streamFormat>
+<media>
+<streamUrl>http://hlstamnews-lh.akamaihd.net/i/ams7_jayaplus@124586/master.m3u8</streamUrl>
+</media>
+</item>
+<item hdImg="http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/jayamovies.jpg">
+<Title>Jaya Movies</Title>
+<ContentId>15</ContentId>
+<streamFormat>hls</streamFormat>
+<media>
+<streamUrl>http://hlsent5-lh.akamaihd.net/i/ams52_jayamovies@318179/master.m3u8</streamUrl>
+</media>
+</item>
+<item hdImg="http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/jayamax_us.jpg">
+<Title>Jaya Max US</Title>
+<ContentId>16</ContentId>
+<streamFormat>hls</streamFormat>
+<media>
+<streamUrl>http://nwk6-lh.akamaihd.net/i/us6_jayamaxus@321194/master.m3u8</streamUrl>
+</media>
+</item>
+<item hdImg="http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/jayamovies_us.jpg">
+<Title>Jaya Movies US</Title>
+<ContentId>17</ContentId>
+<streamFormat>hls</streamFormat>
+<media>
+<streamUrl>http://nwk6-lh.akamaihd.net/i/us6_jayamoviesus@321195/master.m3u8</streamUrl>
+</media>
+</item>
+<item hdImg="http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/jayatv_us.jpg">
+<Title>JayaTV US</Title>
+<ContentId>18</ContentId>
+<streamFormat>hls</streamFormat>
+<media>
+<streamUrl>http://nwk6-lh.akamaihd.net/i/us6_jayatvus@321196/master.m3u8</streamUrl>
+</media>
+</item>
+<item hdImg="http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/rajdigitalplus_us.jpg">
+<Title>Raj Digital Plus US</Title>
+<ContentId>19</ContentId>
+<streamFormat>hls</streamFormat>
+<media>
+<streamUrl>http://nwk6-lh.akamaihd.net/i/us6_rajdigitalplusus@321197/master.m3u8</streamUrl>
+</media>
+</item>
+<item hdImg="http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/rajtv_us.jpg">
+<Title>RajTV US</Title>
+<ContentId>20</ContentId>
+<streamFormat>hls</streamFormat>
+<media>
+<streamUrl>http://nwk6-lh.akamaihd.net/i/us6_rajtvus@321198/master.m3u8</streamUrl>
+</media>
+</item>
+<item hdImg="http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/star_vijay_roku.jpg">
+<Title>Star Vijay</Title>
+<ContentId>21</ContentId>
+<streamFormat>hls</streamFormat>
+<media>
+<streamUrl>http://hlstament-lh.akamaihd.net/i/hls3_starvijay9@65323/master.m3u8</streamUrl>
+</media>
+</item>
+<item hdImg="http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/thanthi_tv_roku.jpg">
+<Title>Thanthi TV</Title>
+<ContentId>22</ContentId>
+<streamFormat>hls</streamFormat>
+<media>
+<streamUrl>http://hlstamextra-lh.akamaihd.net/i/ams5_thanthi@124582/master.m3u8</streamUrl>
+</media>
+</item>
+<item hdImg="http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/adithya_roku.jpg">
+<Title>Adithya TV</Title>
+<ContentId>23</ContentId>
+<streamFormat>hls</streamFormat>
+<media>
+<streamUrl>http://nwk2-lh.akamaihd.net/i/us2_adityatv@315888/master.m3u8</streamUrl>
+</media>
+</item>
+<item hdImg="http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/sun_music_roku.jpg">
+<Title>Sun Music</Title>
+<ContentId>24</ContentId>
+<streamFormat>hls</streamFormat>
+<media>
+<streamUrl>http://hlsbanglaent-lh.akamaihd.net/i/ams43_sunmusic@310067/master.m3u8</streamUrl>
+</media>
+</item>
+<item hdImg="http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/seithigal_roku.jpg">
+<Title>Seithigal TV</Title>
+<ContentId>25</ContentId>
+<streamFormat>hls</streamFormat>
+<media>
+<streamUrl>http://hlstamextra-lh.akamaihd.net/i/ams5_seithagal@124583/master.m3u8</streamUrl>
+</media>
+</item>
+<item hdImg="http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/sst_roku.jpg">
+<Title>Sri Sankara Tamil</Title>
+<ContentId>26</ContentId>
+<streamFormat>hls</streamFormat>
+<media>
+<streamUrl>http://hlsent5-lh.akamaihd.net/i/ams52_srisankaratam@318184/master.m3u8</streamUrl>
+</media>
+</item>
+<item hdImg="http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/kalaignar_new_roku.jpg">
+<Title>Kalaignar TV</Title>
+<ContentId>27</ContentId>
+<streamFormat>hls</streamFormat>
+<media>
+<streamUrl>http://hlstamextra-lh.akamaihd.net/i/ams5_kalaignar@124584/master.m3u8</streamUrl>
+</media>
+</item>
+<item hdImg="http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/sirippoli_new_roku.jpg">
+<Title>Sirippoli TV</Title>
+<ContentId>28</ContentId>
+<streamFormat>hls</streamFormat>
+<media>
+<streamUrl>http://hlsent5-lh.akamaihd.net/i/ams52_sirippolitv@318178/master.m3u8</streamUrl>
+</media>
+</item>
+<item hdImg="http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/chithiram_new_roku.jpg">
+<Title>Chithiram TV</Title>
+<ContentId>29</ContentId>
+<streamFormat>hls</streamFormat>
+<media>
+<streamUrl>http://nwk3-lh.akamaihd.net/i/us3_chithiram@315936/master.m3u8</streamUrl>
+</media>
+</item>
+<item hdImg="http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/isaiaruvi_new_roku.jpg">
+<Title>Isai Aruvi</Title>
+<ContentId>30</ContentId>
+<streamFormat>hls</streamFormat>
+<media>
+<streamUrl>http://hlsent5-lh.akamaihd.net/i/ams52_isaiaruvitv@318173/master.m3u8</streamUrl>
+</media>
+</item>
+<item hdImg="http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/murasu_new_roku.jpg">
+<Title>Murasu</Title>
+<ContentId>31</ContentId>
+<streamFormat>hls</streamFormat>
+<media>
+<streamUrl>http://hlsent5-lh.akamaihd.net/i/ams52_murasu@318175/master.m3u8</streamUrl>
+</media>
+</item>
+<item hdImg="http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/captain_tv_roku.jpg">
+<Title>Captain TV</Title>
+<ContentId>32</ContentId>
+<streamFormat>hls</streamFormat>
+<media>
+<streamUrl>http://hlsent5-lh.akamaihd.net/i/ams52_captaintv@318172/master.m3u8</streamUrl>
+</media>
+</item>
+<item hdImg="http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/captain_news_roku.jpg">
+<Title>Captain News</Title>
+<ContentId>33</ContentId>
+<streamFormat>hls</streamFormat>
+<media>
+<streamUrl>http://hlstamnews-lh.akamaihd.net/i/ams7_captainmews@124587/master.m3u8</streamUrl>
+</media>
+</item>
+</feed>
